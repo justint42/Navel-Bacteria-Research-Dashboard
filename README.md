@@ -1,4 +1,4 @@
-# Bellybutton_Biodiversity
+# Navel Bacterial Biodiversity Research Dashboard
 
 ## Dashboard Link
 
