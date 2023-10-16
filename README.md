@@ -1,4 +1,4 @@
-# Navel Bacterial Biodiversity Research Dashboard
+# Navel Bacteria Research Dashboard
 
 ## Dashboard Link
 
